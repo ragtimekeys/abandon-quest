@@ -1,0 +1,266 @@
+Sonics Order:
+
+Intro, Aquatic Ruin: 1.48 min
+
+Intro (that weird thing Jimmy wrote) BPM: 136
+
+Aquatic Ruin BPM: 136
+  Head
+  A, B: Flute Solo a
+  C: Head (second time 2 bars, then SFX)
+
+2.30 min
+Angel Island BPM: 130
+  Head
+  Jimmy Solo (steel drum)
+  Head out (A only, take next song intro as second ending)
+
+3 min
+Sonic 3 special stage (Blue Sphere) BPM: ?????? (speed up)
+  Head: Intro, A, B, C
+  D melody (Andy)
+  (A, B, C, D) Andy Solo horn
+  Head out: A, B, C, D
+
+
+
+2 min
+Casino Night BPM: 168
+  Head
+  Intro
+  Dan Solo (stop at second ending)
+  Second ending: special ending on last 4 bars
+  Intro with rit.
+
+2 min
+Marble Zone BPM: 100
+  Head (with weird B)
+
+  A (with mike solo)
+  (mike solo over Bm7b5 E7 Am7)
+  weird B (no E7)
+
+Change B to:
+Am G7 | F G7 | Bb Am | F Em  |
+Dm -  | -  - |  -  - | - E7  |
+
+
+Flying Battery BPM: 150
+  Head (with normal B)
+  Intro, A: Mike Solo
+  Weird B (musescore)* Andy plays a third above starting on note E
+  Head (with normal B)
+
+
+Spring Yard Zone BPM: half note = 100
+  Head
+  A, B: Dan Solo
+  A x2: Colin Solo
+  B melody
+    triple tag the Em7b5 A7
+    stop at Dm9 third time
+
+
+
+
+
+
+
+Sonic Medley (WITH transitions)
+    (A mixo) Sonic 3 special stage (Blue Sphere) 
+    (C minor, C major) Casino Night
+    (D minor) Aquatic Ruin
+    (C mixo) Angel Island
+    (F major) Spring Yard Zone
+    (A minor) Flying Battery
+    (A minor) Marble Zone
+
+
+
+Who's making clicktracks:
+
+Jimmy:
+  Final Fantasy 7 - Those Who Fight
+  Final Fantasy 7 - Victory Fanfare
+  Super Mario World - Castle Theme
+  Chrono Cross - Scars of Time
+  Chrono Trigger - Secret of the Forest
+
+
+Mike:
+  Guilty Gear - Holy Orders
+  Streets of Rage - Dreamers
+  Final Fantasy 6 - Searching For Friends
+  Mega Man 7 - Opening Theme
+  Pepsiman - Theme Song
+
+
+
+
+Final Fantasy 7 (both songs: 3 min)
+
+Those Who Fight: BPM 178
+  Form
+  (D.C.) Intro, A (first time measure 16 1/2) -> Victory Fanfare!!!!
+
+Victory Fanfare: BPM 130
+  Intro
+  A 1: Arpeggios
+  A 2: Arpeggios
+  A 3: Grooves
+  A 4: M0ar Gr00ves
+  A 5: 1 bar (END)
+
+...
+
+Streets of Rage 2 - Dreamer (5 min) BPM 130
+
+Head (Mike does chords, Jimmy does punches)
+  Long Intro:
+    1.   Bass   (4 bars)
+    2. + Drums  (4 bars)
+    3. + Piano  (8 bars)
+    4. + Guitar (4 bars)
+    5. + Synth  (4 bars)
+    6. + Flute  (8 bars)
+  A
+  B
+Solos
+  Intro (8 bars), A, B (Mike)
+  Intro (8 bars), A, B (Andy) (Mike does punches)
+Head (Mke and Jimmy do punches)
+  Intro (8 bars)
+  A
+  B: Add after Measure 12: 2 measures of | G F D C |
+
+...
+
+FF6 - Searching for Friends (5.30 min)
+
+* Accoustic Guitar pls
+
+(sneak in other FF songs before intro) Celes Theme
+Head BPM: ?
+  Intro
+  A (flute)
+  B (flute) BPM: 124
+Solos
+  A (2nd ending only): Andy first 4 bars, Mike next 5 bars
+  B: Andy and Mike trade 4s, then 2s
+  A (2nd ending only): Jimmy piano
+  B: Uchenna
+Head
+  Intro
+  A (2nd ending) (Ucello) DOWN
+
+...
+
+Mega Man 7 - Opening Stage (4.10 min)
+
+Head BPM: 195
+  Intro
+  A (Organ) (Synth harmony)
+  B (Synth)
+Solos
+  Intro
+  A, B (Jimmy organ)
+  Intro
+  A, B (Mike)
+Head
+  Intro
+  A (Organ) (Synth harmony)
+  B (Synth)
+  Intro 2 bars (END)
+
+...
+
+
+Super Mario World - Castle Theme (2 min)
+
+Intro BPM: 85
+Form (No D.S.) BPM: 110
+Add 1 bar of | F#m B7 | -> slowly leading to Holy Hors d'Oeuvres
+
+...
+
+Guilty Gear - Holy Orders (3.10 min)
+
+Extra Intros:
+  Organ intro
+  Harpsichord Intro (repeat) BPM: 
+Head:
+  Guitar Intro
+  Riff (1x)
+  A
+  B
+  C
+Solos:
+  Guitar Intro
+  Riff (2x)
+  A: Mike solo
+  B: Andy solo
+  Add 2 bars of D#o
+  C: melody
+Head:
+  Guitar Intro
+  Riff (1x)
+  ENDING
+
+...
+
+Chrono Cross - Scars of Time (2.50 min)
+
+* Accoustic Guitar por favor senor
+
+Intro, A BPM: 77
+B BPM: 114
+
+D 3x,
+D 1x (Jimmy Solo),
+D 1x (END), last measure notes: E E D E
+
+...
+
+SONIC MEDLEY (? min)
+
+...
+
+Chrono Trigger - Secret of the Forest (9.40 min)
+
+BPM: 85
+
+Head
+  Intro, A, B, C, D
+Solos
+  Intro, A, B, C, D (Dan)
+  Intro, A, B, C, D (Mike)
+Head
+  Intro, A, B, C, D
+
+
+...
+
+Pepsiman - Theme Song (? min)
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
