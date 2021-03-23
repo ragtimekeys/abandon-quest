@@ -20,7 +20,7 @@ Sonic 3 special stage (Blue Sphere) BPM: ?????? (speed up)
   Head: Intro, A, B, C
   D melody (Andy)
   (A, B, C, D) Andy Solo horn
-  Head out: A, B, C, D
+  Head out: A, B, last bar of B is intro lick as ending
 
 
 
@@ -122,7 +122,7 @@ Head (Mike does chords, Jimmy does punches)
     3. + Piano  (8 bars)
     4. + Guitar (4 bars)
     5. + Synth  (4 bars)
-    6. + Flute  (8 bars)
+    6. + Flute  (4 bars)
   A
   B
 Solos
