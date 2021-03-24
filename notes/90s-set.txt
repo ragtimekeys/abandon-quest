@@ -119,7 +119,7 @@ Head (Mike does chords, Jimmy does punches)
   Long Intro:
     1.   Bass   (4 bars)
     2. + Drums  (4 bars)
-    3. + Piano  (8 bars)
+    3. + Piano  (4 bars)
     4. + Guitar (4 bars)
     5. + Synth  (4 bars)
     6. + Flute  (4 bars)
@@ -128,8 +128,11 @@ Head (Mike does chords, Jimmy does punches)
 Solos
   Intro (8 bars), A, B (Mike)
   Intro (8 bars), A, B (Andy) (Mike does punches)
-Head (Mke and Jimmy do punches)
-  Intro (8 bars)
+Head (Mike and Jimmy do punches)
+  Intro
+    1. + Guitar (4 bars)
+    2. + Synth  (4 bars)
+    3. + Flute  (4 bars)
   A
   B: Add after Measure 12: 2 measures of | G F D C |
 
