@@ -27,9 +27,12 @@ Sonic 3 special stage (Blue Sphere) BPM: ?????? (speed up)
 2 min
 Casino Night BPM: 168
   Head
-  Intro
-  Dan Solo (stop at second ending)
-  Second ending: special ending on last 4 bars
+  Solo
+    Intro
+    A, 1st ending, A: Dan Solo
+    2nd ending (normal)
+  Head Out
+    with 2nd ending: special ending on last 4 bars
   Intro with rit.
 
 2 min
@@ -38,14 +41,19 @@ Marble Zone BPM: 100
 
   A (with mike solo)
   (mike solo over Bm7b5 E7 Am7)
-  weird B (no E7)
+  weird B (no E7), end with the lick: F E C A E D
 
 Change B to:
+Am G7 | F G7 | Am G7 | F G7  |
 Am G7 | F G7 | Bb Am | F Em  |
-Dm -  | -  - |  -  - | - E7  |
+Dm -  | -  - |  -  - | - E7 - - |
 
 
 Flying Battery BPM: 150
+
+*second to last bar: Am (8th) G (8th) Am
+
+
   Head (with normal B)
   Intro, A: Mike Solo
   Weird B (musescore)* Andy plays a third above starting on note E
